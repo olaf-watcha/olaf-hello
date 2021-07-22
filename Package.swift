@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "OlafHelloSample",
+    name: "OlafHello",
     platforms: [
         .iOS(.v13)
     ],
